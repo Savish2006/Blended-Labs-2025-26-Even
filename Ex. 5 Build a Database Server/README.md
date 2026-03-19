@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SAVISH R
+* **Register Number**: 212224230257
+* **Date of Submission**: 19.03.2026
 
 ---
 
@@ -82,13 +82,26 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
+## Workflow (Student Explanation)
+
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.Logged in to AWS and opened Amazon EC2.
+
+2.Launched a new EC2 instance using Amazon Linux 2.
+
+3.Configured the security group to allow SSH (22) and MySQL (3306).
+
+4.Connected to the EC2 instance using SSH.
+
+5.Installed the MySQL database server.
+
+6.Started the MySQL service and set the root password.
+
+7.Created a sample database and table.
+
+8.Tested the database using SQL queries.
+
 
 ---
 
@@ -96,19 +109,21 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1918" height="1027" alt="cc 5 a" src="https://github.com/user-attachments/assets/2f8cfa02-ed04-4e8d-ab69-28cfd197efc4" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1918" height="1028" alt="CC 5B" src="https://github.com/user-attachments/assets/6e2bac4b-d16a-4f22-a62c-ebe1e82d1423" />
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1487" height="525" alt="cc 5d" src="https://github.com/user-attachments/assets/c6c8afc5-ab64-4b02-9a5b-a8b11a011bb7" />
+
 
 ---
 
